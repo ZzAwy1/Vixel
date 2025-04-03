@@ -26,21 +26,27 @@ body {
     z-index: 1000;
 }
 
-<div class="logo">
-    <a href="https://i.postimg.cc/SRptCP1G/1.png">اسم الموقع</a>
-</div>
-
 .logo a {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #0f2a4b;
+    color: #f0f0f0;
     text-decoration: none;
-    transition: color 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
-.logo a:hover {
-    color: #1a3b63;
+.logo i {
+    font-size: 2rem; /* تكبير أيقونة الديسكورد */
+    color: #7289da; /* لون أيقونة الديسكورد */
 }
+<div class="logo">
+    <a href="https://discord.com">
+        <img src="https://i.postimg.cc/SRptCP1G/1.png" alt="Logo" class="logo-img">
+        اسم الموقع
+    </a>
+</div>
+
 
 
 .nav-links {
