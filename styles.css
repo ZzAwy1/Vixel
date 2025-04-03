@@ -31,7 +31,7 @@ body {
     gap: 0.5rem;
     font-size: 1.5rem;
     font-weight: bold;
-    color: #7289da;
+    color: #19375a;
 }
 
 .logo i {
@@ -64,13 +64,13 @@ body {
 }
 
 .join-btn:hover {
-    background: #5b6eae;
+    background: #0e1625;
 }
 
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #0e1625 0%, #5b6eae 100%);
+    background: linear-gradient(135deg, #0e1625 0%, #122e4f 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -107,7 +107,7 @@ body {
 /* About Section */
 .about-section {
     padding: 5rem 10%;
-    background: #f8f9fa;
+    background: #0e1625;
 }
 
 .about-section h2 {
@@ -191,7 +191,7 @@ body {
 /* Join Section */
 .join-section {
     padding: 5rem 10%;
-    background: #f8f9fa;
+    background: #102c4d;
     text-align: center;
 }
 
