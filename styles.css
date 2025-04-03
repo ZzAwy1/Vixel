@@ -52,11 +52,11 @@ body {
 }
 
 .nav-links a:hover {
-    color: #7289da;
+    color: #0e1625;
 }
 
 .join-btn {
-    background: #7289da;
+    background: #0e1625;
     color: white !important;
     padding: 0.5rem 1.5rem;
     border-radius: 25px;
@@ -70,7 +70,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #7289da 0%, #5b6eae 100%);
+    background: linear-gradient(135deg, #0e1625 0%, #5b6eae 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -92,7 +92,7 @@ body {
 .cta-button {
     display: inline-block;
     background: white;
-    color: #7289da;
+    color: #0e1625;
     padding: 1rem 2rem;
     border-radius: 30px;
     text-decoration: none;
@@ -149,7 +149,7 @@ body {
 
 .stat i {
     font-size: 2.5rem;
-    color: #7289da;
+    color: #0e1625;
     margin-bottom: 1rem;
 }
 
@@ -184,7 +184,7 @@ body {
 
 .service-card i {
     font-size: 2.5rem;
-    color: #7289da;
+    color: #0e1625;
     margin-bottom: 1rem;
 }
 
@@ -233,7 +233,7 @@ footer {
 }
 
 .social-links a:hover {
-    color: #7289da;
+    color: #0e1625;
 }
 
 /* Responsive Design */
